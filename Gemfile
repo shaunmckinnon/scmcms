@@ -25,6 +25,7 @@ gem 'jbuilder', '~> 2.5'
 # Additional Project Gems
 gem 'haml-rails', '~>1.0'
 gem 'webpacker', git: 'https://github.com/rails/webpacker.git'
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
